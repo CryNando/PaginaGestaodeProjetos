@@ -8,6 +8,15 @@
 	font-family: -apple-system,BlinkMacSystemFont,"Segoe UI",Roboto,"Helvetica Neue",Arial,sans-serif,"Apple Color Emoji","Segoe UI Emoji","Segoe UI Symbol";
 }
 
+#contentextra{
+	background-color: #5dc41d;
+	width: 100%;
+	position: relative;
+	height: 100%;
+	display: table;
+	margin-top: 8%;
+}
+
 #controller{
 	width: 100%;
 	position: relative;
@@ -64,6 +73,14 @@ iframe{
 	width:970px;
 }
 
+.link{
+	text-decoration: none;
+	color: white;
+}
+
+.link:hover{
+	color: white;
+}
 
 section{
 	background-color: #5dc41d;
@@ -113,3 +130,4 @@ section{
 #objectiveT{
 	color: #5dc41d;
 }
+
